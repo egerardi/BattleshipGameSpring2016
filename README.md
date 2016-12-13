@@ -6,27 +6,28 @@ This project was generated with Java SE 8
 
 ### Prerequisites
 
-import javax.swing.*;
-import javax.swing.text.BadLocationException;
-import javax.swing.text.Document;
+Import:
 
-import java.awt.Color;
-import java.awt.Component;
-import java.awt.Dimension;
-import java.awt.Font;
-import java.awt.Toolkit;
-import java.awt.datatransfer.Transferable;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
-import java.awt.event.MouseMotionListener;
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
-import java.io.IOException;
-import java.io.PrintStream;
-import java.net.UnknownHostException;
-import java.util.Arrays;
+- javax.swing.*;
+- javax.swing.text.BadLocationException;
+- javax.swing.text.Document;
+- java.awt.Color;
+- java.awt.Component;
+- java.awt.Dimension;
+- java.awt.Font;
+- java.awt.Toolkit;
+- java.awt.datatransfer.Transferable;
+- java.awt.event.ActionEvent;
+- java.awt.event.ActionListener;
+- java.awt.event.MouseEvent;
+- java.awt.event.MouseListener;
+- java.awt.event.MouseMotionListener;
+- java.beans.PropertyChangeEvent;
+- java.beans.PropertyChangeListener;
+- java.io.IOException;
+- java.io.PrintStream;
+- java.net.UnknownHostException;
+- java.util.Arrays;
 
 ### Developing
 
